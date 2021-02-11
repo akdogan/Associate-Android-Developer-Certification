@@ -85,12 +85,12 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Mock up the main screens and navigation flow of the application
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
-   - [ ] [[Code Labs Android] Using ConstraintLayout to design your views
+   - [x] [[Code Labs Android] Using ConstraintLayout to design your views
 ](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
   
 - [ ] Describe interactions between UI, background task, and data persistence
-- [ ] Construct a layout using XML or Java code
-  - [ ] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
+- [x] Construct a layout using XML or Java code
+  - [x] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
 - [ ] Create a custom view class and add it to a layout
   - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - [ ] Implement a custom application theme
@@ -135,7 +135,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 #### Fundamental Application Components
 >Understanding of Android's top-level application components ([Activity](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw5GZHEj4ZhR4cayR-ou6Hh), [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw), [Broadcast Receiver](https://www.youtube.com/playlist?list=PLWy8DQlwJkdwtBDTpP3tsjx0wXhR2shOq), [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)) and the lifecycle associated with each one. Candidates should be able to describe the types of application logic that would be best suited for each component, and whether that component is executing in the foreground or in the background. This includes strategies for determining how and when to execute background work.
 - [ ] Describe an application's key functional and nonfunctional requirements
-- [ ] Create an Activity that displays a layout resource
+- [x] Create an Activity that displays a layout resource
 - [ ] [Schedule a time-sensitive task using alarms](https://github.com/firebase/firebase-jobdispatcher-android)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Schedule a background task using [JobScheduler](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw_gbIbmGs4wplosYZn3kAm)
@@ -156,19 +156,19 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 >Determining appropriate use cases for local [persisted data](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzafwjoVUcx9283oIbJQvFC), and designing solutions to implement data storage using files, preferences, and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
 
 - [ ] Define a database schema; include tables, fields, and indices
-  - [ ] [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
-  - [ ] [[Udacity Course]  Data Storage][db_udacity]
+  - [x] [[Android Developers Page]  Saving Data in SQL Databases][db_android_guide_database]
+  - [x] [[Udacity Course]  Data Storage][db_udacity]
   - [ ] [[Team Treehouse] Android Data Persistence][db_treehouse_data_persistence]
-- [ ] Create an application-private database file
-- [ ] Construct database queries returning single results
-  - [ ] [[Android Developers Page] Read Information from a Database][db_android_guide_database_read]
+- [x] Create an application-private database file
+- [x] Construct database queries returning single results
+  - [x] [[Android Developers Page] Read Information from a Database][db_android_guide_database_read]
 - [ ] Construct database queries returning multiple results
   - [ ] [[Android Developers Page]  Read Information from a Database][db_android_guide_database_read]
-- [ ] Insert new items into a database
-  - [ ] [[Android Developers Page]  Put Information into a Database][db_android_guide_database_write]
-- [ ] Update or delete existing items in a database
-  - [ ] [[Android Developers Page]  Update a Database][db_android_guide_database_update]
-  - [ ] [[Android Developers Page]  Delete Information from a Database][db_android_guide_database_delete]
+- [x] Insert new items into a database
+  - [x] [[Android Developers Page]  Put Information into a Database][db_android_guide_database_write]
+- [x] Update or delete existing items in a database
+  - [x] [[Android Developers Page]  Update a Database][db_android_guide_database_update]
+  - [x] [[Android Developers Page]  Delete Information from a Database][db_android_guide_database_delete]
 - [ ] Expose a database to other applications via [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)
   - [ ] [[Udacity Course] How to Use a Content Provider][persistent_data_storage_udacity_how_to_use_content_provider]
   - [ ] [[Udacity Course]  Data Storage Lesson 3: Introduction To Content Providers][db_udacity]
