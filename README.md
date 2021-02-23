@@ -91,38 +91,38 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Describe interactions between UI, background task, and data persistence
 - [x] Construct a layout using XML or Java code
   - [x] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
-- [ ] Create a custom view class and add it to a layout
-  - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
+- [x] Create a custom view class and add it to a layout
+  - [x] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - [ ] Implement a custom application theme
   - [ ] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
   - [ ] [[CodePath* Page] Developing Custom Theme](https://guides.codepath.com/android/Developing-Custom-Themes)
   - [ ] [[Android Studio Page] Design App Themes with Theme Editor](https://developer.android.com/studio/write/theme-editor.html)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Polishing the UI - Styles and Themes](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [ ] Apply a custom style to a group of common widgets
-  - [ ] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
+- [x] Apply a custom style to a group of common widgets
+  - [x] [[Android Developer Page] Styles and Themes](https://developer.android.com/guide/topics/ui/themes.html)
   
-- [ ] Define a RecyclerView item list
-  - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
-  - [ ] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
-  - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
-  - [ ] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [ ] Bind local data to a RecyclerView list
-  - [ ] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
-  - [ ] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
-  - [ ] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
-  - [ ] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [ ] Implement menu-based or drawer navigation
-  - [ ] [[Android Developers Page] Creating a Navigation Drawer][ui_ux_android_page_creating_drawer]
-  - [ ] [[Android Developers Blog] Android Design Support Library Navigation View][ui_ux_android_developer_blog_navigation_view]
-  - [ ] [[Team Treehouse Blog] How to Add a Navigation Drawer in Android][ui_ux_team_treehouse_blog_navigation_drawer]
-  - [ ] [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
-  - [ ] [[Android Development Patterns] Episode 8 Navigation Drawer, DrawerLayout, and NavigationView](https://www.youtube.com/watch?v=DkT0vS14Um0&feature=youtu.be&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
-  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Fragments](https://www.udacity.com/course/advanced-android-app-development--ud855)
-  - [ ] [[Android Developer Page] Fragments](https://developer.android.com/guide/components/fragments.html) 
+- [x] Define a RecyclerView item list
+  - [x] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+  - [x] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
+  - [x] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
+  - [x] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [x] Bind local data to a RecyclerView list
+  - [x] [[Android Developer Site] Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
+  - [x] [[CodePath* ] Using Recycler View](https://guides.codepath.com/android/using-the-recyclerview)
+  - [x] [[Treehouse Course] Android Lists and Adapters](https://teamtreehouse.com/library/android-lists-and-adapters)
+  - [x] [[Udacity Course] Developing Android Apps Lesson: RecyclerView](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [x] Implement menu-based or drawer navigation
+  - [x] [[Android Developers Page] Creating a Navigation Drawer][ui_ux_android_page_creating_drawer]
+  - [x] [[Android Developers Blog] Android Design Support Library Navigation View][ui_ux_android_developer_blog_navigation_view]
+  - [x] [[Team Treehouse Blog] How to Add a Navigation Drawer in Android][ui_ux_team_treehouse_blog_navigation_drawer]
+  - [x] [[Antonio Leiva Blog] Design Support Library (I): Navigation View][ui_ux_navigation_view]
+  - [x] [[Android Development Patterns] Episode 8 Navigation Drawer, DrawerLayout, and NavigationView](https://www.youtube.com/watch?v=DkT0vS14Um0&feature=youtu.be&list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
+  - [x] [[Udacity Course] Advanced Android App Development Lesson: Fragments](https://www.udacity.com/course/advanced-android-app-development--ud855)
+  - [x] [[Android Developer Page] Fragments](https://developer.android.com/guide/components/fragments.html) 
 - [ ] Localize the application's UI text into one other language
-  - [ ] [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
-  - [ ] [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
-   - [ ] [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
+  - [x] [[Android Developer Page] Localizing with Resources](https://developer.android.com/guide/topics/resources/localization.html)
+  - [x] [[Android Developer Page] Supporting Different Languages and Cultures](https://developer.android.com/training/basics/supporting-devices/languages.html)
+   - [x] [[Treehouse Course] Localization in Android](https://teamtreehouse.com/library/localization-in-android)
     - [ ] [[Android Developer Page] Localization checklist](https://developer.android.com/distribute/best-practices/launch/localization-checklist.html)
   - [ ] [[Android Developer Page] NumberFormat](https://developer.android.com/reference/java/text/NumberFormat.html)
   - [ ] [[Android Developer Page] DateFormat](https://developer.android.com/reference/java/text/DateFormat.html)
@@ -138,8 +138,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [x] Create an Activity that displays a layout resource
 - [ ] [Schedule a time-sensitive task using alarms](https://github.com/firebase/firebase-jobdispatcher-android)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [ ] Schedule a background task using [JobScheduler](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw_gbIbmGs4wplosYZn3kAm)
-  - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [x] Schedule a background task using [JobScheduler](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw_gbIbmGs4wplosYZn3kAm)
+  - [x] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Execute a background task inside of a [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [ ] [[Android Performance Patterns] Season 4 Episode 6 Service Performance Patterns](https://www.youtube.com/watch?v=NJsq0TU0qeg)
@@ -183,12 +183,12 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 
 - [x] Create an app widget that displays on the device home screen
   - [x] [[Android Developers docs] about Widget][android_developers_about_widget]
-  - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
+  - [x] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
   - [x] [[Udacity Course] Advanced Android App Development Lesson: Widgets](https://www.udacity.com/course/advanced-android-app-development--ud855)
   - [x] [[Android Development Patterns] Season 2 Episode 2 Your app, their home screen: Widgets](https://www.youtube.com/watch?v=crsmPedDyoU)
 - [x] Implement a task to update the app widget periodically
   - [x] [[Android Developers Page] Widget][android_developers_about_widget]
-  - [ ] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
+  - [x] [[TreeHouse Workshop] Widgets ][treehouse_widget_workshop]
   - [x] [[Udacity Course] Advanced Android App Development Lesson: Widgets](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [x] Create and display a notification to the user
   - [ ] [[Android Developer Page] Building a Notification](https://developer.android.com/training/notify-user/build-notification.html)
@@ -256,7 +256,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - Manage your app's lifecycle with ease. New  [lifecycle-aware components](https://developer.android.com/topic/libraries/architecture/lifecycle)  help you manage your activity and fragment lifecycles. Survive configuration changes, avoid memory leaks and easily load data into your UI.
 
  
-- [ ] Use LiveData to build data objects that notify views when the underlying database changes
+- [x] Use LiveData to build data objects that notify views when the underlying database changes
   -  [Top Architecture Components LiveData and Lifecycle](https://www.youtube.com/watch?v=juyGXCvjWyw)
   - [droidcon NYC 2017 - ViewModels, LiveData and Lifecycles, oh my!](https://www.youtube.com/watch?v=SlZVYkhoSq8) 
   -  [Team TreehouseData Persistence with Room](https://teamtreehouse.com/library/data-persistence-with-room)
@@ -268,10 +268,10 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 -  Room is an a SQLite object mapping library. Use it to Avoid boilerplate code and easily convert SQLite table data to Java objects. Room provides compile time checks of SQLite statements and can return RxJava, Flowable and LiveData observables.
  [Android Developers Page](https://developer.android.com/training/data-storage/room/accessing-data)
   
-- [ ] Insert with @Insert DAO (Database Access Objects)
+- [x] Insert with @Insert DAO (Database Access Objects)
   - [Insert into your Database Table](https://developer.android.com/training/data-storage/room/accessing-data#convenience-insert)
   - [Android Developers BackStage Episode 73: Architecture Components 2 - Persistence](https://androidbackstage.blogspot.com/2017/07/episode-73-architecture-components-2.html)
-- [ ] Update or delete existing items in a database Using DAO (Database Access Objects)
+- [x] Update or delete existing items in a database Using DAO (Database Access Objects)
   - [Update information in your Database](https://developer.android.com/training/data-storage/room/accessing-data#convenience-update)
   - [Delete information in your Database](https://developer.android.com/training/data-storage/room/accessing-data#convenience-delete)  
   - [Android Developers BackStage Episode 73: Architecture Components 2 - Persistence](https://androidbackstage.blogspot.com/2017/07/episode-73-architecture-components-2.html)
